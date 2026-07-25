@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": "projects",
+      "displayName": "Projects",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "heliosnotes",
+      "displayName": "NEBULA_notes.txt",
+      "parentPath": "Projects",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project NEBULA status: almost done.\n\nDefinition of 'almost': unknown.\n\nNever ask why it is named after the sun. The answer takes 40 minutes."
+    },
+    {
+      "id": "works",
+      "displayName": "works_on_my_machine.txt",
+      "parentPath": "Projects",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Confirmed:\n- It works on my machine.\n- My machine is currently unavailable.\n- Therefore the issue is resolved."
+    },
+    {
+      "id": "finals",
+      "displayName": "final_final_final",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "finalreadme",
+      "displayName": "READ_THIS_LAST.txt",
+      "parentPath": "final_final_final",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "This folder was created 27 minutes ago.\nIt has already outlived three previous final folders."
+    },
+    {
+      "id": "pomodoro",
+      "displayName": "Pomodoro",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "pomodoro1",
+      "displayName": "timer_state.txt",
+      "parentPath": "Pomodoro",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Pomodoro timer: 25:00 remaining.\nOffice lunch timer: much less.\n\nLocal time is an unreliable narrator."
+    },
+    {
+      "id": "calendar",
+      "displayName": "calendar_reminder.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Sasha: 'I will change my password after stand-up.'\nAlso Sasha: changed it to the stand-up time again."
+    },
+    {
+      "id": "orion_folder",
+      "displayName": "ORION",
+      "parentPath": "Projects",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "nimbus_folder",
+      "displayName": "NIMBUS",
+      "parentPath": "Projects",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "orion_architecture",
+      "displayName": "ORION_Architecture.zip",
+      "parentPath": "Projects/ORION",
+      "entryType": "TextFile",
+      "sizeMb": 96,
+      "isCopyable": true,
+      "textContent": "ORION architecture package.\n\nA payment dashboard, 14 services, 3 deprecated services and one spreadsheet named FINAL_final.xlsx.\n\nNot classified."
+    },
+    {
+      "id": "nimbus_mobile",
+      "displayName": "NIMBUS_MobilePrototype.apk",
+      "parentPath": "Projects/NIMBUS",
+      "entryType": "TextFile",
+      "sizeMb": 45,
+      "isCopyable": true,
+      "textContent": "NIMBUS mobile prototype.\n\nStatus: demo works if nobody rotates the phone."
+    },
+    {
+      "id": "project_codes",
+      "displayName": "project_code_names.txt",
+      "parentPath": "Projects",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "ORION — payment dashboard\nNIMBUS — mobile client\nCOBALT — analytics\nATLAS — logistics\nNEBULA — confidential initiative\n\nDo not put this file on the shared drive again."
+    },
+    {
+      "id": "orion_bug_note",
+      "displayName": "ORION_known_issues.txt",
+      "parentPath": "Projects/ORION",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Known issue: chart displays a negative number when money exists.\nFinance calls this a feature request."
+    }
+  ]
+}

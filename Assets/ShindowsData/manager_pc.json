@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "id": "meetings",
+      "displayName": "Meetings",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "meeting",
+      "displayName": "meeting_final_v7_really_final.ics",
+      "parentPath": "Meetings",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Meeting topic: should we have a meeting?\nDuration: 90 minutes.\nExpected outcome: schedule follow-up meeting."
+    },
+    {
+      "id": "standup",
+      "displayName": "standup_extended_cut.txt",
+      "parentPath": "Meetings",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Stand-up rule: max 15 minutes.\nCurrent duration: 47 minutes.\nNew action item: define 'max'."
+    },
+    {
+      "id": "motivation",
+      "displayName": "motivation.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "TEAMWORK MAKES THE DREAM WORK.\n\nUnless the dream is leaving work on time."
+    },
+    {
+      "id": "countdown",
+      "displayName": "lunch_return_plan.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Plan for return from lunch:\n1. Notice suspiciously warm computers.\n2. Ask questions.\n3. Schedule a meeting about asking questions."
+    },
+    {
+      "id": "presentations",
+      "displayName": "Presentations",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "slide",
+      "displayName": "slide_48_one_more_chart.txt",
+      "parentPath": "Presentations",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Slide 48: A chart proving the chart on slide 47 needed another chart."
+    },
+    {
+      "id": "client_relations",
+      "displayName": "Client Relations",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "client_messages",
+      "displayName": "client_messages_Q2.zip",
+      "parentPath": "Client Relations",
+      "entryType": "TextFile",
+      "sizeMb": 95,
+      "isCopyable": true,
+      "textContent": "Client mailbox export.\n\nContains 837 “quick questions” and three actual emergencies."
+    },
+    {
+      "id": "project_priorities",
+      "displayName": "project_priorities.xlsx",
+      "parentPath": "Client Relations",
+      "entryType": "TextFile",
+      "sizeMb": 42,
+      "isCopyable": true,
+      "textContent": "Project priorities.\n\nAll public projects: urgent.\nConfidential project: “do not discuss in meetings”."
+    },
+    {
+      "id": "orion_pitch",
+      "displayName": "ORION_sales_pitch.pptx",
+      "parentPath": "Presentations",
+      "entryType": "TextFile",
+      "sizeMb": 30,
+      "isCopyable": true,
+      "textContent": "ORION sales deck.\n\nSlide 48 proves slide 47 needed another chart."
+    },
+    {
+      "id": "nimbus_pitch",
+      "displayName": "NIMBUS_sales_pitch.pptx",
+      "parentPath": "Presentations",
+      "entryType": "TextFile",
+      "sizeMb": 34,
+      "isCopyable": true,
+      "textContent": "NIMBUS sales deck.\n\nContains a phone mock-up with 17 shades of blue."
+    },
+    {
+      "id": "meeting_recording",
+      "displayName": "all_hands_recording.zip",
+      "parentPath": "Meetings",
+      "entryType": "TextFile",
+      "sizeMb": 78,
+      "isCopyable": true,
+      "textContent": "All-hands recording.\n\nRuntime: 84 minutes. Useful information: approximately 40 seconds."
+    },
+    {
+      "id": "secret_meeting",
+      "displayName": "private_meeting_note.txt",
+      "parentPath": "Meetings",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Do not attach NEBULA documents to calendar invites.\nThis has happened before."
+    }
+  ]
+}

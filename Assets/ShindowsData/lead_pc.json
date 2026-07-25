@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "id": "management",
+      "displayName": "Management",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "roadmap",
+      "displayName": "NEBULA_Roadmap.pdf",
+      "parentPath": "Management",
+      "entryType": "TextFile",
+      "sizeMb": 25,
+      "isCopyable": true,
+      "textContent": "NEBULA Roadmap.\n\nQ1: Build it.\nQ2: Fix it.\nQ3: Explain why it was built.\nQ4: Rename it NEBULA 2."
+    },
+    {
+      "id": "calendar",
+      "displayName": "calendar.txt",
+      "parentPath": "Management",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "09:15 — Daily stand-up.\n09:30 — Why did stand-up last 15 minutes?\n10:00 — Emergency meeting about the previous meeting.\n\nReminder: Sasha's password is the daily stand-up time."
+    },
+    {
+      "id": "deadline",
+      "displayName": "deadline_strategy.txt",
+      "parentPath": "Management",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "A deadline is not a threat.\nIt is an opportunity for everyone to discover their true speed."
+    },
+    {
+      "id": "urgent",
+      "displayName": "URGENT",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "urgent1",
+      "displayName": "urgent_but_can_wait.txt",
+      "parentPath": "URGENT",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Urgent item #41: decide where to order lunch.\nUrgent item #42: explain why lunch caused a security incident."
+    },
+    {
+      "id": "retro",
+      "displayName": "retro_action_items.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Action item: stop underestimating tasks.\nOwner: everyone.\nDue date: last sprint."
+    },
+    {
+      "id": "roadmaps",
+      "displayName": "Roadmaps",
+      "parentPath": "Management",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "orion_roadmap",
+      "displayName": "ORION_Roadmap.pdf",
+      "parentPath": "Management/Roadmaps",
+      "entryType": "TextFile",
+      "sizeMb": 22,
+      "isCopyable": true,
+      "textContent": "ORION roadmap.\n\nQ1: add dashboard.\nQ2: add another dashboard.\nQ3: find someone who understands the first dashboard."
+    },
+    {
+      "id": "nimbus_roadmap",
+      "displayName": "NIMBUS_Roadmap.pdf",
+      "parentPath": "Management/Roadmaps",
+      "entryType": "TextFile",
+      "sizeMb": 28,
+      "isCopyable": true,
+      "textContent": "NIMBUS roadmap.\n\nMain goal: ship before the design is renamed again."
+    },
+    {
+      "id": "cobalt_roadmap",
+      "displayName": "COBALT_Roadmap.pdf",
+      "parentPath": "Management/Roadmaps",
+      "entryType": "TextFile",
+      "sizeMb": 26,
+      "isCopyable": true,
+      "textContent": "COBALT roadmap.\n\nEvery milestone is represented by a pie chart."
+    },
+    {
+      "id": "atlas_roadmap",
+      "displayName": "ATLAS_Roadmap.pdf",
+      "parentPath": "Management/Roadmaps",
+      "entryType": "TextFile",
+      "sizeMb": 24,
+      "isCopyable": true,
+      "textContent": "ATLAS roadmap.\n\nStep one: know where packages are. Step two: repeat."
+    },
+    {
+      "id": "priority_matrix",
+      "displayName": "project_priority_matrix.xlsx",
+      "parentPath": "Management",
+      "entryType": "TextFile",
+      "sizeMb": 40,
+      "isCopyable": true,
+      "textContent": "Priority matrix.\n\nEvery project is marked urgent. The spreadsheet is therefore finished."
+    },
+    {
+      "id": "confidential_note",
+      "displayName": "confidential_project_note.txt",
+      "parentPath": "Management",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "The confidential initiative uses the NEBULA codename.\nKeep its architecture, client offer and roadmap off the shared drive."
+    }
+  ]
+}

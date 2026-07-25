@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "finance",
+      "displayName": "Finance",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "salary",
+      "displayName": "Definitely_Not_Salaries.xlsx",
+      "parentPath": "Finance",
+      "entryType": "TextFile",
+      "sizeMb": 2,
+      "isCopyable": false,
+      "textContent": "Column A: employee names.\nColumn B: classified.\nColumn C: also classified.\n\nPlease stop opening this file. Especially you, Denis."
+    },
+    {
+      "id": "coffee",
+      "displayName": "coffee_budget.txt",
+      "parentPath": "Finance",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Coffee budget exceeded infrastructure budget.\n\nFinance has classified coffee as critical infrastructure."
+    },
+    {
+      "id": "lunch",
+      "displayName": "lunch_expenses.txt",
+      "parentPath": "Finance",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Lunch reimbursement request #84.\nReason: survived another release.\nStatus: rejected as 'too emotionally honest'."
+    },
+    {
+      "id": "forecast",
+      "displayName": "Forecasts",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "forecast1",
+      "displayName": "countdown_forecast.txt",
+      "parentPath": "Forecasts",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Projection: in 2 minutes, the office will contain employees.\nConfidence: 99.9%.\nThe missing 0.1% is fire alarm probability."
+    },
+    {
+      "id": "invoice",
+      "displayName": "invoice_for_one_bug.txt",
+      "parentPath": "Forecasts",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Invoice description: 'one tiny fix'.\nHours billed: 63.\nApproved by: reality."
+    },
+    {
+      "id": "client_lists",
+      "displayName": "Client Lists",
+      "parentPath": "Finance",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "active_clients",
+      "displayName": "active_clients_Q2.xlsx",
+      "parentPath": "Finance/Client Lists",
+      "entryType": "TextFile",
+      "sizeMb": 75,
+      "isCopyable": true,
+      "textContent": "Active client list for ORION, NIMBUS, COBALT and ATLAS.\n\nDo not confuse this with the confidential initiative list."
+    },
+    {
+      "id": "contract_archive",
+      "displayName": "contracts_archive_2025.zip",
+      "parentPath": "Finance",
+      "entryType": "TextFile",
+      "sizeMb": 110,
+      "isCopyable": true,
+      "textContent": "Contract archive.\n\nLarge enough to fill the USB and your weekend."
+    },
+    {
+      "id": "project_budgets",
+      "displayName": "project_budget_overview.xlsx",
+      "parentPath": "Finance",
+      "entryType": "TextFile",
+      "sizeMb": 55,
+      "isCopyable": true,
+      "textContent": "Budgets for public projects.\n\nThe coffee line item is still larger than QA tooling."
+    },
+    {
+      "id": "nebula_budget",
+      "displayName": "restricted_cost_center.txt",
+      "parentPath": "Finance",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Cost center: NEBULA.\nAccess: Lead, Finance, and apparently whoever left this file open."
+    },
+    {
+      "id": "refunds",
+      "displayName": "refund_requests.zip",
+      "parentPath": "Forecasts",
+      "entryType": "TextFile",
+      "sizeMb": 18,
+      "isCopyable": true,
+      "textContent": "Refund requests.\n\nEvery request claims the bug was “obvious”."
+    }
+  ]
+}

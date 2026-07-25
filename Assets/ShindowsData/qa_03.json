@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "id": "evidence",
+      "displayName": "Test Evidence",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "offer",
+      "displayName": "NEBULA_ClientOffer.pdf",
+      "parentPath": "Test Evidence",
+      "entryType": "TextFile",
+      "sizeMb": 55,
+      "isCopyable": true,
+      "textContent": "NEBULA client offer.\n\nClient: confidential.\nPrice: confidential.\nDiscount: mysteriously removed by Finance.\n\nClassification: restricted."
+    },
+    {
+      "id": "security",
+      "displayName": "security_note.txt",
+      "parentPath": "Test Evidence",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Passwords must not be the same as bug IDs.\n\nThis reminder was written after an incident.\nNo further questions."
+    },
+    {
+      "id": "rerun",
+      "displayName": "rerun_until_green.txt",
+      "parentPath": "Test Evidence",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Build status: red.\nRerun status: red.\nThird rerun: green.\n\nConclusion: testing works."
+    },
+    {
+      "id": "timing",
+      "displayName": "timing_assertions.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Expected timer: 03:00.\nActual timer: 02:41.\n\nPossible cause: someone spent nineteen seconds reading a joke file."
+    },
+    {
+      "id": "archive",
+      "displayName": "Old Evidence",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "archive1",
+      "displayName": "bug_fixed_by_refreshing.txt",
+      "parentPath": "Old Evidence",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Resolution: refresh page.\nRoot cause: unknown.\nDocumentation: spiritual."
+    },
+    {
+      "id": "project_tests",
+      "displayName": "Project Acceptance",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "bug3052",
+      "displayName": "BUG-3052_COBALT_export_is_empty.txt",
+      "parentPath": "Project Acceptance",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: COBALT\nExpected: exported report.\nActual: a 0 KB file with enormous confidence."
+    },
+    {
+      "id": "bug3053",
+      "displayName": "BUG-3053_ATLAS_package_arrives_yesterday.txt",
+      "parentPath": "Project Acceptance",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: ATLAS\nExpected: delivery date is in the future.\nActual: delivery arrived yesterday.\nStatus: time travel not in scope."
+    },
+    {
+      "id": "bug3054",
+      "displayName": "BUG-3054_NEBULA_offer_pdf_visible.txt",
+      "parentPath": "Project Acceptance",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: NEBULA\nExpected: offer visible only to authorized users.\nActual: QA is authorized, thankfully."
+    },
+    {
+      "id": "cobalt_acceptance",
+      "displayName": "COBALT_ClientAcceptance.pdf",
+      "parentPath": "Project Acceptance",
+      "entryType": "TextFile",
+      "sizeMb": 58,
+      "isCopyable": true,
+      "textContent": "COBALT client acceptance package.\n\nClient likes the dashboards. Nobody can explain them."
+    },
+    {
+      "id": "atlas_contract",
+      "displayName": "ATLAS_contract_draft.pdf",
+      "parentPath": "Project Acceptance",
+      "entryType": "TextFile",
+      "sizeMb": 40,
+      "isCopyable": true,
+      "textContent": "ATLAS contract draft.\n\nAll legal comments removed for the sake of morale."
+    },
+    {
+      "id": "qa_message_backup",
+      "displayName": "QA_client_messages.zip",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 48,
+      "isCopyable": true,
+      "textContent": "Client messages from QA mailbox.\n\nSubject lines include “quick question” and “production is down”."
+    }
+  ]
+}

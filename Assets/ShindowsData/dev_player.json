@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": "mission",
+      "displayName": "MISSION_URGENT.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "The client calls it the Secret Project. \n\nRetrieve its roadmap, architecture and client offer before lunch ends.\n\nAct natural. Do not download memes. This is a real rule."
+    },
+    {
+      "id": "briefing",
+      "displayName": "Briefing",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "briefing1",
+      "displayName": "how_to_look_busy.txt",
+      "parentPath": "Briefing",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "1. Open a terminal.\n2. Type very fast.\n3. Frown at a graph.\n4. Say: 'It worked locally.'\n\nDo not make eye contact with HR."
+    },
+    {
+      "id": "briefing2",
+      "displayName": "usb_capacity.txt",
+      "parentPath": "Briefing",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "USB capacity: 250 MB.\nTarget files need 200 MB.\n\nThe remaining 50 MB are not for cat videos.\nProbably."
+    },
+    {
+      "id": "clock",
+      "displayName": "LunchClock",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "clocklog",
+      "displayName": "countdown_log.txt",
+      "parentPath": "LunchClock",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "03:00 — Everyone left.\n02:00 — This still feels easy.\n01:00 — It no longer feels easy.\n00:00 — You will learn what 'all hands' means."
+    },
+    {
+      "id": "meme",
+      "displayName": "definitely_not_a_meme.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Reminder: espionage is serious business.\n\nAlso reminder: delete this reminder."
+    },
+    {
+      "id": "send_package",
+      "displayName": "SEND_PACKAGE.exe",
+      "parentPath": "",
+      "entryType": "Executable",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "EXFILTRATION UTILITY v1.0\n\nChecks connected USB drive and transfers the Secret Project package.\n\nWarning: once started, transfer cannot be cancelled."
+    },
+    {
+      "id": "project_hint",
+      "displayName": "CLIENT_UPDATE.txt",
+      "parentPath": "Briefing",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "The target is known internally as PROJECT NEBULA.\n\nCollect its roadmap, architecture and client offer.\nDo not assume the first expensive file is the right one."
+    },
+    {
+      "id": "fake_downloads",
+      "displayName": "Downloads",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "fake_downloads_note",
+      "displayName": "do_not_copy_everything.txt",
+      "parentPath": "Downloads",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "The USB has 250 MB.\nThe target package needs 200 MB.\n\nData hoarding is not espionage."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "items": [
+    {
+      "id": "projects",
+      "displayName": "Projects",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "helios",
+      "displayName": "NEBULA",
+      "parentPath": "Projects",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "architecture",
+      "displayName": "NEBULA_Architecture.zip",
+      "parentPath": "Projects/NEBULA",
+      "entryType": "TextFile",
+      "sizeMb": 120,
+      "isCopyable": true,
+      "textContent": "NEBULA architecture export.\n\nContains services, diagrams, legacy decisions and one folder named 'legacy_final_fixed_REAL'.\n\nClassification: restricted."
+    },
+    {
+      "id": "readme",
+      "displayName": "README.txt",
+      "parentPath": "Projects/NEBULA",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "To run locally:\n1. Install dependencies.\n2. Install more dependencies.\n3. Ask Sasha why it does not work.\n4. Sasha is at lunch."
+    },
+    {
+      "id": "hotfixes",
+      "displayName": "HOTFIXES",
+      "parentPath": "Projects/NEBULA",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "hotfix",
+      "displayName": "hotfix_12_FINAL.java",
+      "parentPath": "Projects/NEBULA/HOTFIXES",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "// Temporary fix.\n// Added: 2019.\n// Last touched: 6 minutes ago.\n// Please do not make it permanent again."
+    },
+    {
+      "id": "lunch",
+      "displayName": "lunch_countdown.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Sasha's productivity falls sharply when lunch ends in under one minute.\nThis is called a 'performance optimization'."
+    },
+    {
+      "id": "password",
+      "displayName": "password_policy.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Password policy:\n- secure\n- memorable\n- not written on a sticky note\n\nCompliance rate: statistically interesting."
+    },
+    {
+      "id": "cobalt_folder",
+      "displayName": "COBALT",
+      "parentPath": "Projects",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "atlas_folder",
+      "displayName": "ATLAS",
+      "parentPath": "Projects",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "cobalt_architecture",
+      "displayName": "COBALT_Architecture.zip",
+      "parentPath": "Projects/COBALT",
+      "entryType": "TextFile",
+      "sizeMb": 90,
+      "isCopyable": true,
+      "textContent": "COBALT analytics architecture.\n\nContains dashboards, pipelines and 400 MB of charts that nobody reads."
+    },
+    {
+      "id": "atlas_service_map",
+      "displayName": "ATLAS_ServiceMap.zip",
+      "parentPath": "Projects/ATLAS",
+      "entryType": "TextFile",
+      "sizeMb": 80,
+      "isCopyable": true,
+      "textContent": "ATLAS logistics service map.\n\nMap includes every delivery route except the route to production."
+    },
+    {
+      "id": "release_candidates",
+      "displayName": "release_candidates.zip",
+      "parentPath": "Projects",
+      "entryType": "TextFile",
+      "sizeMb": 30,
+      "isCopyable": true,
+      "textContent": "Release candidates for ORION, NIMBUS, ATLAS and COBALT.\n\nEvery candidate insists it is the final one."
+    },
+    {
+      "id": "nebula_note",
+      "displayName": "NEBULA_access_note.txt",
+      "parentPath": "Projects/NEBULA",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "NEBULA is not part of the regular release train.\nLead approval required.\n\nDo not mention it in the lunch chat."
+    },
+    {
+      "id": "cobalt_readme",
+      "displayName": "COBALT_README.txt",
+      "parentPath": "Projects/COBALT",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "If the dashboard is empty, wait five minutes.\nIf it is still empty, call it minimalist."
+    }
+  ]
+}

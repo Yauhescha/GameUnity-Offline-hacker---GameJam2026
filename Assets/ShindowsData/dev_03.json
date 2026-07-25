@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": "final1",
+      "displayName": "final",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "final2",
+      "displayName": "final_final",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "final3",
+      "displayName": "final_final_really",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "final4",
+      "displayName": "final_final_really_v2",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "truth",
+      "displayName": "the_truth.txt",
+      "parentPath": "final_final_really_v2",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "There is no final version.\nThere are only versions that have not disappointed us yet."
+    },
+    {
+      "id": "prod",
+      "displayName": "production_DO_NOT_TOUCH.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "DO NOT TOUCH PRODUCTION.\n\nLast person who touched it is now called 'the former team lead'."
+    },
+    {
+      "id": "deploy",
+      "displayName": "deploy_at_17_59.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Countdown to end of workday: 00:01.\nNew deployment: started.\n\nThis file is evidence, not a confession."
+    },
+    {
+      "id": "duck",
+      "displayName": "rubber_duck_debugging.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "The duck listened carefully.\nThe duck did not judge.\nThe duck found the null pointer before you did."
+    },
+    {
+      "id": "builds_folder",
+      "displayName": "Builds",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "orion_build",
+      "displayName": "ORION_release_27.bundle",
+      "parentPath": "Builds",
+      "entryType": "TextFile",
+      "sizeMb": 68,
+      "isCopyable": true,
+      "textContent": "ORION release bundle.\n\nIncludes 2 fixes, 11 regressions and a very confident changelog."
+    },
+    {
+      "id": "nimbus_assets",
+      "displayName": "NIMBUS_UI_assets.zip",
+      "parentPath": "Builds",
+      "entryType": "TextFile",
+      "sizeMb": 35,
+      "isCopyable": true,
+      "textContent": "NIMBUS UI assets.\n\nContains 17 shades of blue. Product approved all of them."
+    },
+    {
+      "id": "atlas_patch",
+      "displayName": "ATLAS_hotfix_12.patch",
+      "parentPath": "Builds",
+      "entryType": "TextFile",
+      "sizeMb": 18,
+      "isCopyable": true,
+      "textContent": "ATLAS hotfix.\n\nTemporary fix added in 2019. Temporary is a mindset."
+    },
+    {
+      "id": "build_countdown",
+      "displayName": "build_before_lunch.txt",
+      "parentPath": "Builds",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Build ETA: 5 minutes.\nLunch ETA: less than that.\n\nOne of these estimates is based on evidence."
+    },
+    {
+      "id": "deploy_checklist",
+      "displayName": "pre_deploy_checklist.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "[ ] Tests passed\n[ ] Backup exists\n[ ] Someone said “what could go wrong?”\n[ ] Cancel deployment"
+    }
+  ]
+}

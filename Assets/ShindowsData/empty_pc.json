@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "welcome",
+      "displayName": "Welcome.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "This workstation is vacant.\n\nReserved for the next person who says: 'I can fix it quickly in production.'"
+    },
+    {
+      "id": "onboarding",
+      "displayName": "Onboarding",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "onboarding1",
+      "displayName": "day_one_checklist.txt",
+      "parentPath": "Onboarding",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "[ ] Learn names.\n[ ] Learn where coffee is.\n[ ] Learn why nobody touches the server closet.\n[ ] Finish before the countdown finishes."
+    },
+    {
+      "id": "screensaver",
+      "displayName": "screensaver_log.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "SYSTEM MESSAGE:\nLunch ends soon.\n\nFor legal reasons, this is not a threat."
+    },
+    {
+      "id": "left",
+      "displayName": "previous_employee_notes.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "If you found this, I escaped.\nThe door key is not here.\nNeither is happiness."
+    },
+    {
+      "id": "timer",
+      "displayName": "00_00.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "00:00\n\nThe screen is blank for a moment.\nThen you hear a distant elevator sound.\n\nJust kidding. Probably."
+    },
+    {
+      "id": "recycle",
+      "displayName": "Recycle Bin",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "recycle1",
+      "displayName": "raise_request_draft.txt",
+      "parentPath": "Recycle Bin",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Subject: Small compensation discussion.\nStatus: deleted.\nRecovery chance: unknown."
+    },
+    {
+      "id": "old_projects",
+      "displayName": "Old Projects",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "orion_mockups",
+      "displayName": "ORION_old_mockups.zip",
+      "parentPath": "Old Projects",
+      "entryType": "TextFile",
+      "sizeMb": 25,
+      "isCopyable": true,
+      "textContent": "Very old ORION mock-ups.\n\nEvery button is green. This was a different time."
+    },
+    {
+      "id": "nimbus_research",
+      "displayName": "NIMBUS_user_research.zip",
+      "parentPath": "Old Projects",
+      "entryType": "TextFile",
+      "sizeMb": 46,
+      "isCopyable": true,
+      "textContent": "NIMBUS user research archive.\n\nUsers asked for fewer pop-ups. Product added a survey pop-up."
+    },
+    {
+      "id": "forgotten_clients",
+      "displayName": "forgotten_client_contacts.xlsx",
+      "parentPath": "Old Projects",
+      "entryType": "TextFile",
+      "sizeMb": 36,
+      "isCopyable": true,
+      "textContent": "Old client contacts.\n\nSeveral rows have the note “please stop calling”."
+    },
+    {
+      "id": "archive_note",
+      "displayName": "archive_countdown.txt",
+      "parentPath": "Old Projects",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "This PC was decommissioned three weeks ago.\nIt has still attended more meetings than most employees."
+    }
+  ]
+}

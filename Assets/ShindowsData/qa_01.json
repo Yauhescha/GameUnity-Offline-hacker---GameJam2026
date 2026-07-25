@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "id": "tests",
+      "displayName": "Test Results",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "failedok",
+      "displayName": "test_failed_successfully.txt",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Test result: FAILED SUCCESSFULLY.\n\nExpected: button works.\nActual: button achieved enlightenment and no longer believes in clicks."
+    },
+    {
+      "id": "zero",
+      "displayName": "COUNTDOWN-0.txt",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Bug report:\nWhen countdown reaches 00:00, employees return from lunch.\n\nStatus: Won't fix.\nPriority: Critical."
+    },
+    {
+      "id": "severity",
+      "displayName": "severity_matrix.txt",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Critical: app crashes.\nBlocker: coffee machine crashes.\nCosmetic: manager dislikes the button shade.\n\nAll have the same priority today."
+    },
+    {
+      "id": "screens",
+      "displayName": "Screenshots",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "screenshotnote",
+      "displayName": "screenshot_473_notes.txt",
+      "parentPath": "Screenshots",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Screenshot taken at 11:59:58.\nTwo seconds later the issue disappeared.\nQA calls this a clue."
+    },
+    {
+      "id": "regression",
+      "displayName": "regression_prayer.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Dear regression suite,\nplease finish before the actual lunch break finishes.\nAmen."
+    },
+    {
+      "id": "drake_image",
+      "displayName": "fix_or_close_ticket.png",
+      "parentPath": "Screenshots",
+      "entryType": "ImageFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "",
+      "imageResourcePath": "ShindowsImages/qa_drake"
+    },
+    {
+      "id": "bug1042",
+      "displayName": "BUG-1042_ORION_total_is_negative.txt",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: ORION\nExpected: money total is positive.\nActual: money has entered a philosophical phase.\nPriority: High."
+    },
+    {
+      "id": "bug1043",
+      "displayName": "BUG-1043_NIMBUS_login_requires_login.txt",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: NIMBUS\nExpected: login screen loads.\nActual: login screen asks the user to log in to see the login screen."
+    },
+    {
+      "id": "bug1044",
+      "displayName": "BUG-1044_ATLAS_map_leads_to_sea.txt",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: ATLAS\nExpected: courier reaches customer.\nActual: courier reaches the Atlantic Ocean.\nStatus: cannot reproduce inland."
+    },
+    {
+      "id": "bug1045",
+      "displayName": "BUG-1045_COBALT_chart_is_all_blue.txt",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: COBALT\nExpected: readable chart.\nActual: blue rectangle.\nDesigner comment: very on brand."
+    },
+    {
+      "id": "orion_regression",
+      "displayName": "ORION_regression_report.zip",
+      "parentPath": "Test Results",
+      "entryType": "TextFile",
+      "sizeMb": 62,
+      "isCopyable": true,
+      "textContent": "Full ORION regression report with screenshots, logs and emotional damage."
+    },
+    {
+      "id": "qa_exports",
+      "displayName": "QA_Exports",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "all_bugs_export",
+      "displayName": "all_open_bugs_Q2.csv",
+      "parentPath": "QA_Exports",
+      "entryType": "TextFile",
+      "sizeMb": 32,
+      "isCopyable": true,
+      "textContent": "Export of all currently open bugs.\n\nWarning: opening this file may create more bugs."
+    }
+  ]
+}

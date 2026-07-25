@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": "bugs",
+      "displayName": "Bugs",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "bug1",
+      "displayName": "BUG-0001.txt",
+      "parentPath": "Bugs",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Title: App crashes when user does anything.\n\nDeveloper comment: Cannot reproduce.\nQA comment: Please open the app."
+    },
+    {
+      "id": "bugtime",
+      "displayName": "BUG-9999_time_moves_forward.txt",
+      "parentPath": "Bugs",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Expected: more time before deadline.\nActual: less time before deadline.\n\nStatus: By design.\nAssignee: Universe."
+    },
+    {
+      "id": "triage",
+      "displayName": "Triage",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "triage1",
+      "displayName": "bug_or_feature.txt",
+      "parentPath": "Triage",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "If it happens once: bug.\nIf it happens twice: feature.\nIf it happens during demo: planned behavior."
+    },
+    {
+      "id": "memo",
+      "displayName": "meme_approval.txt",
+      "parentPath": "Triage",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "QA has approved the meme.\nThe product remains unapproved."
+    },
+    {
+      "id": "fine_image",
+      "displayName": "everything_is_fine.png",
+      "parentPath": "Triage",
+      "entryType": "ImageFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "",
+      "imageResourcePath": "ShindowsImages/qa_this_is_fine"
+    },
+    {
+      "id": "clock",
+      "displayName": "countdown_test_plan.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Test steps:\n1. Start countdown.\n2. Wait.\n3. Confirm panic increases linearly.\n4. Repeat once, for confidence."
+    },
+    {
+      "id": "bug2048",
+      "displayName": "BUG-2048_NEBULA_splash_is_visible.txt",
+      "parentPath": "Bugs",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: NEBULA\nExpected: project code remains hidden.\nActual: splash screen briefly displays it.\nStatus: fixed before release."
+    },
+    {
+      "id": "bug2049",
+      "displayName": "BUG-2049_ORION_receipt_is_a_poem.txt",
+      "parentPath": "Bugs",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: ORION\nExpected: receipt.\nActual: 14 lines of accidental haiku.\nPriority: Medium, emotionally high."
+    },
+    {
+      "id": "bug2050",
+      "displayName": "BUG-2050_NIMBUS_button_teleports.txt",
+      "parentPath": "Bugs",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: NIMBUS\nExpected: button stays in layout.\nActual: button escapes to top-left corner.\nStatus: feature for advanced users."
+    },
+    {
+      "id": "bug2051",
+      "displayName": "BUG-2051_ATLAS_driver_is_cat.txt",
+      "parentPath": "Bugs",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Project: ATLAS\nExpected: driver name.\nActual: “Mister Whiskers”.\nQA cannot verify whether this is incorrect."
+    },
+    {
+      "id": "nimbus_evidence",
+      "displayName": "NIMBUS_test_evidence.zip",
+      "parentPath": "Triage",
+      "entryType": "TextFile",
+      "sizeMb": 70,
+      "isCopyable": true,
+      "textContent": "NIMBUS test evidence: device videos, logs and one very expensive crash."
+    },
+    {
+      "id": "triage_export",
+      "displayName": "triage_messages.zip",
+      "parentPath": "Triage",
+      "entryType": "TextFile",
+      "sizeMb": 28,
+      "isCopyable": true,
+      "textContent": "Internal triage discussion.\n\nContains 423 uses of the phrase “small change”."
+    },
+    {
+      "id": "bug_counter",
+      "displayName": "bugs_left_before_lunch.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Open bugs: 47.\nMinutes before lunch ends: decreasing.\nCorrelation: denied by management."
+    }
+  ]
+}

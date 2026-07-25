@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "id": "monitoring",
+      "displayName": "Monitoring",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "prod",
+      "displayName": "prod_is_fine.txt",
+      "parentPath": "Monitoring",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "PRODUCTION STATUS: FINE.\n\nThis message is red because DevOps thought it looked more honest."
+    },
+    {
+      "id": "alerts",
+      "displayName": "alerts_disabled_after_lunch.txt",
+      "parentPath": "Monitoring",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Alert rule: if CPU > 90%, notify DevOps.\nIf lunch is over, notify everyone.\nIf both: pretend the alert never existed."
+    },
+    {
+      "id": "deploy",
+      "displayName": "Deploy",
+      "parentPath": "",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "friday",
+      "displayName": "deploy_friday.txt",
+      "parentPath": "Deploy",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Deploying on Friday is forbidden.\nDeploying during lunch is technically not Friday.\n\nThis loophole was closed after the Incident."
+    },
+    {
+      "id": "timer",
+      "displayName": "uptime_vs_lunchtime.txt",
+      "parentPath": "Deploy",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Uptime: 99.99%.\nTime until lunch ends: much lower.\n\nSLO does not cover personal stress."
+    },
+    {
+      "id": "buttons_image",
+      "displayName": "deploy_choice.png",
+      "parentPath": "Deploy",
+      "entryType": "ImageFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "",
+      "imageResourcePath": "ShindowsImages/devops_meme"
+    },
+    {
+      "id": "root",
+      "displayName": "root_password.txt",
+      "parentPath": "",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "Nice try.\nThe root password is not stored in root_password.txt.\nThat would be ridiculous."
+    },
+    {
+      "id": "archives",
+      "displayName": "Deploy Archives",
+      "parentPath": "Deploy",
+      "entryType": "Folder",
+      "sizeMb": 1,
+      "isCopyable": false
+    },
+    {
+      "id": "orion_deploy",
+      "displayName": "ORION_release_27.tar",
+      "parentPath": "Deploy/Deploy Archives",
+      "entryType": "TextFile",
+      "sizeMb": 85,
+      "isCopyable": true,
+      "textContent": "ORION release archive.\n\nIncludes one rollback plan and no confidence."
+    },
+    {
+      "id": "nimbus_deploy",
+      "displayName": "NIMBUS_hotfix.tar",
+      "parentPath": "Deploy/Deploy Archives",
+      "entryType": "TextFile",
+      "sizeMb": 65,
+      "isCopyable": true,
+      "textContent": "NIMBUS hotfix archive.\n\nHotfix temperature: room temperature."
+    },
+    {
+      "id": "cobalt_logs",
+      "displayName": "COBALT_production_logs.zip",
+      "parentPath": "Monitoring",
+      "entryType": "TextFile",
+      "sizeMb": 52,
+      "isCopyable": true,
+      "textContent": "COBALT production logs.\n\n99% normal. 1% explains why everyone avoids this server."
+    },
+    {
+      "id": "atlas_backup",
+      "displayName": "ATLAS_predeploy_backup.tar",
+      "parentPath": "Deploy",
+      "entryType": "TextFile",
+      "sizeMb": 120,
+      "isCopyable": true,
+      "textContent": "ATLAS backup.\n\nToo big for the USB. Exactly as intended."
+    },
+    {
+      "id": "deploy_messages",
+      "displayName": "deploy_chat_export.zip",
+      "parentPath": "Deploy",
+      "entryType": "TextFile",
+      "sizeMb": 38,
+      "isCopyable": true,
+      "textContent": "Deployment chat export.\n\nContains the phrase “who has prod access?” 19 times."
+    },
+    {
+      "id": "nebula_deploy_note",
+      "displayName": "NEBULA_deployment_note.txt",
+      "parentPath": "Deploy",
+      "entryType": "TextFile",
+      "sizeMb": 1,
+      "isCopyable": false,
+      "textContent": "NEBULA is deliberately absent from this deploy archive.\nNo public pipeline. No public logs."
+    }
+  ]
+}
